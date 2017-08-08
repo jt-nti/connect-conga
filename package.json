@@ -1,0 +1,12 @@
+{
+  "name": "connect-conga",
+  "version": "1.0.0",
+  "description": "Connect four congas in a row to win!",
+  "main": "index.js",
+  "author": "James Taylor",
+  "license": "Apache-2.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
